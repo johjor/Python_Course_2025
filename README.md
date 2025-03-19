@@ -4,6 +4,8 @@
 **This repository primarily contains data, Python scripts, and plots for a project required by the course HEL-8048 25V Advanced data and visualization using programming at UiT The Arctic University of Norway.**
 
 ![IMDB Movies Dataset](https://github.com/johjor/Python_Course_2025/blob/main/Picture_of_famous_movies.jpg)
+<img src="https://github.com/johjor/Python_Course_2025/blob/main/Picture_of_famous_movies.jpg" alt="IMDB Movies Dataset" width="500">
+
 
 Below you will find more information about the organization of this repository, the source of data and further details. 
 
@@ -12,9 +14,9 @@ In this project I have mainly used Pandas to manage, filter and sort the data. D
 
 # The source and structure of data
 
-The data used in this project was initially downloaded from kaggle. The downloading process is further explained in the file: download_kaggle_dataset.ipynb.
+The data used in this project was initially downloaded from kaggle with Kagglehub API. The downloading process is further explained in the file: download_kaggle_dataset.ipynb.
 
-**The data reflects a collection of metadata from 1050 movies from from 1936 to 2020.**
+**The data reflects a collection of metadata from 1500 movies from from 1936 to 2020.**
 
 # The organization of this repository
 * /data stores .csv files containing data used in this project
