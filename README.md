@@ -3,7 +3,7 @@
 
 **This repository primarily contains data, Python scripts, and plots for a project required by the course HEL-8048 25V Advanced data and visualization using programming at UiT The Arctic University of Norway.**
 
-![IMDB Movies Dataset](https://github.com/johjor/Python_Course_2025/blob/main/Picture_of_famous_movies.jpg)
+
 <img src="https://github.com/johjor/Python_Course_2025/blob/main/Picture_of_famous_movies.jpg" alt="IMDB Movies Dataset" width="500">
 
 
