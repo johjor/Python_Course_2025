@@ -47,7 +47,24 @@ H5: Higher-budget movies tend to receive higher user ratings. I will use a scatt
 before running the command, make sure to change the directory to the pathway where the files is stored.
 
 
-## Authors
+### colors used
+#FFA23A orange
+#CBD5E8 light blue
+#E6F5C9 light yellow
+#ACF39D light green
+#FFDA03 bright yellow
+#F4CAE4 light pinkt
+#FF88DC Persian pink
+#CCCCCC grey 
+#FDCDAC light orange 
+#ca2e55 rose red
+#773344 Wine
+#91A6FF vista blue
+#9CFFFA Ice blue
+
+
+
+## Authors 
 
 - [@Johanna Jørstad](https://www.github.com/johjor)
 
