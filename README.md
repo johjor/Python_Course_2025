@@ -97,7 +97,7 @@ H5: Most movies in the dataset fall under the **PG-13** category, as blockbuster
     ```bash
     conda install --file requirements.txt
 
-
+---
 
 ## Colors Used
 Yes - you are correct, I aimed for an Easter-themed repository. Why, you ask? Because the deadline of the exam is in the Easter week!!
@@ -117,6 +117,7 @@ Here are the colors used:
 #91A6FF vista blue
 #9CFFFA Ice blue
 
+---
 
 ## License
 GNU GENERAL PUBLIC LICENSE
