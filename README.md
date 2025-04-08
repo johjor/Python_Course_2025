@@ -8,11 +8,14 @@
 
 <img src="https://github.com/johjor/Python_Course_2025/blob/main/source/Picture_of_famous_movies.jpg" alt="IMDb Movies Dataset" width="500">
 
-This repository is created to take a deeper look into the database of IMDb (Internet Movie Database). The database contain information related to films, television series, podcast, video games etc. At IMDb you can find information about cast, production crew, plot summaries etc. In this project I will focus on movie titles, the release year, age rating, genres, IMDb rating, number of users who rated the movies and number of user reviews for the movies.
+This repository is created to take a deeper look into the database of IMDb (Internet Movie Database). The database contain information related to films, television series, podcast, video games etc. At IMDb you can find information about cast, production crew, plot summaries etc. 
+
+In this project I will focus on movie titles, the release year, age rating, genres, IMDb rating, number of users who rated the movies and number of user reviews for the movies.
 
 In this project I have mainly used Pandas to manage, filter and sort the data. Different methods and functions from Matplotlib and Seaborn are used to adjust plotting and data visualization. Several visualization styles are used to plot the data. I use Jupyter Notebook in VScode to write code and markdown files, commenting my choices through the process. 
 
 You can see the information about the repository organisation below.
+
 *To view the final results and conclusions, see IMDb_exam.ipynb in the /results folder.*
 
 Below you will find more information about the organization of this repository, the source of data and further details. 
@@ -62,7 +65,7 @@ IMDb (Internet Movie Database) provides information about films, TV series, podc
   Contains final results and visualizations with captions. The main notebook `IMDb_exam.ipynb` is here — check it out to see the end results.
 
 - `/scripts`  
-  Includes scripts for each hypothesis. These scripts handle filtering, grouping, and plotting. There's also a "class plotting" file where I'm experimenting with reusable plotting functions — still a work in progress! Each of the scripts is to show how the developement of the figures happened.. The final result is in the *"IMDb_exam.ipynb"* file.
+  Includes scripts for each hypothesis. These scripts handle filtering, grouping, and plotting. Each of the scripts is to show how the developement of the figures happened.. The final result is in the *"IMDb_exam.ipynb"* file.
 
 - `/source`  
   Contains the image used in this `README.md`.
@@ -103,6 +106,8 @@ H5: Most movies in the dataset fall under the **PG-13** category, as blockbuster
 Yes - you are correct, I aimed for an Easter-themed repository. Why, you ask? Because the deadline of the exam is in the Easter week!!
 Here are the colors used: 
 
+<img src="https://github.com/johjor/Python_Course_2025/blob/main/source/Easter_Themed_Colors.png" alt="Color theme" width="500">
+
 #FFA23A orange
 #CBD5E8 light blue
 #b4caf2 
@@ -129,6 +134,7 @@ GNU GENERAL PUBLIC LICENSE
 Feel free to copy or adapt parts of this project for your own learning. Please include proper credit by linking back to this repository.
 
 If you use this project, please cite it as follows:
+
   **This work is based on Johanna G. Jørstad's project, available at: https://www.github.com/johjor/Python_Course_2025**
 
 *Note* This project is not open for contributions or pull requests.
