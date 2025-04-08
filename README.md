@@ -124,10 +124,17 @@ GNU GENERAL PUBLIC LICENSE
     Version 3, 29 June 2007
 
  Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
- Everyone is permitted to copy and distribute verbatim copies
- of this license document, but changing it is not allowed.
+
+## Use and copying
+Feel free to copy or adapt parts of this project for your own learning. Please include proper credit by linking back to this repository.
+
+If you use this project, please cite it as follows:
+  **This work is based on Johanna G. Jørstad's project, available at: https://www.github.com/johjor/Python_Course_2025**
+
+*Note* This project is not open for contributions or pull requests.
 
 ## Authors
 
 - [@Johanna Jørstad](https://www.github.com/johjor)
+
 
