@@ -6,7 +6,8 @@
 *This repository primarily contains data, Python scripts, and plots for a project required by the course HEL-8048 25V Advanced data and visualization using programming at UiT The Arctic University of Norway.*
 
 
-<img src="https://github.com/johjor/Python_Course_2025/blob/main/source/Picture_of_famous_movies.jpg" alt="IMDb Movies Dataset" width="500">
+<img src="https://github.com/johjor/Python_Course_2025/blob/main/source/Picture_of_famous_movies.jpg" alt="IMDb Movies Dataset" width="650">
+
 
 This repository is created to take a deeper look into the database of IMDb (Internet Movie Database). The database contain information related to films, television series, podcast, video games etc. At IMDb you can find information about cast, production crew, plot summaries etc. 
 
@@ -68,7 +69,7 @@ IMDb (Internet Movie Database) provides information about films, TV series, podc
   Includes scripts for each hypothesis. These scripts handle filtering, grouping, and plotting. Each of the scripts is to show how the developement of the figures happened.. The final result is in the *"IMDb_exam.ipynb"* file.
 
 - `/source`  
-  Contains the image used in this `README.md`.
+  Contains the images used in this "README.md" and "IMDb_exam.ipynb".
 
 - `download_kaggle_dataset.ipynb`  
   Demonstrates the KaggleHub API download process.
@@ -125,22 +126,19 @@ Here are the colors used:
 ---
 
 ## License
-GNU GENERAL PUBLIC LICENSE
+[GNU GENERAL PUBLIC LICENSE](https://github.com/johjor/Python_Course_2025/blob/main/LICENSE)
     Version 3, 29 June 2007
 
- Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
 
 ## Use and copying
 Feel free to copy or adapt parts of this project for your own learning. Please include proper credit by linking back to this repository.
 
 If you use this project, please cite it as follows:
 
-  **This work is based on Johanna G. Jørstad's project, available at: https://www.github.com/johjor/Python_Course_2025**
+  **This work is based on Johanna G. Jørstad's project, available at: https://www.github.com/johjor/Python_Course_2025** or **Jørstad, J. G. (2025) Python Course 2025, https://www.github.com/johjor/Python_Course_2025**
 
 *Note* This project is not open for contributions or pull requests.
 
 ## Authors
 
 - [@Johanna Jørstad](https://www.github.com/johjor)
-
-
